@@ -6,4 +6,3 @@ public class Convert_km_to_miles {
         System.out.print("the km distance in miles is "+(n*1.6));
     }
 }
-5
