@@ -9,5 +9,6 @@ class Is_Divisible_By_5 {
         else{
             System.out.println(n+ " is not divisible by 5");
         }
+        r.close();
     }
 }

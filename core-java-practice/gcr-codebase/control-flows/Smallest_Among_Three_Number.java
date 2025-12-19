@@ -11,5 +11,6 @@ public class Smallest_Among_Three_Number {
         } else {
             System.out.println("No" + number1 + " is not smallest among three numbers");
         }
+        r.close();
     }
 }
