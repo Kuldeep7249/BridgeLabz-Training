@@ -1,5 +1,6 @@
 import java.util.*;
-public class  Twosum {
+
+public class Twosum {
     public static int[] twoSum(int[] nums, int target) {
         int[][] arr = new int[nums.length][2];
 
@@ -25,15 +26,17 @@ public class  Twosum {
         }
         return new int[] {};
     }
-    public static void main(String[] args){
-        Scanner r=new Scanner(System.in);
-        int n=r.nextInt();
-        int a[]=new int[n];
-        for(int i=0;i<n;i++){
-            a[i]=r.nextInt();
+
+    public static void main(String[] args) {
+        Scanner r = new Scanner(System.in);
+        int n = r.nextInt();
+        int a[] = new int[n];
+        for (int i = 0; i < n; i++) {
+            a[i] = r.nextInt();
         }
-        int k=r.nextInt();
-        int b[]=twoSum(a,k);
+        int k = r.nextInt();
+        int b[] = twoSum(a, k);
         System.out.print(Arrays.toString(b));
+        r.close();
     }
 }

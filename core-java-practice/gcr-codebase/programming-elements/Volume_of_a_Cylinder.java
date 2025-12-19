@@ -7,7 +7,8 @@ public class Volume_of_a_Cylinder {
         int radius = sc.nextInt();
         System.out.println("Enter the height of the cylinder");
         int height = sc.nextInt();
-        double Volume = 3.14*radius*radius*height;
+        double Volume = 3.14 * radius * radius * height;
         System.out.println("Volume of Cylinder" + Volume);
+        sc.close();
     }
 }

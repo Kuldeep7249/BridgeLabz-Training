@@ -7,7 +7,8 @@ public class AddTwoNumbers {
         int a = input.nextInt();
         System.out.println("Enter second number");
         int b = input.nextInt();
-        System.out.println("Result "+(a+b));
+        System.out.println("Result " + (a + b));
+        input.close();
 
     }
 }

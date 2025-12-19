@@ -10,7 +10,8 @@ public class Calculate_Simple_Interest {
         double rate = sc.nextDouble();
         System.out.println("Enter the Time");
         double time = sc.nextDouble();
-        double Simple_Interest= (principal *  rate * time) *100;
+        double Simple_Interest = (principal * rate * time) * 100;
         System.out.println("Simple Interest is " + Simple_Interest);
+        sc.close();
     }
 }

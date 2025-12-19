@@ -12,5 +12,6 @@ public class DistanceConversion {
         System.out.println("The distance in feet is " + distanceInFeet +
                 " while in yards is " + yards +
                 " and miles is " + miles);
+        r.close();
     }
 }
