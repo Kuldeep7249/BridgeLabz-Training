@@ -6,7 +6,6 @@ public class Abundant_number {
 
         int number = r.nextInt();
         int sum = 0;
-12
         for (int i = 1; i < number; i++) {
             if (number % i == 0) {
                 sum = sum + i;
