@@ -9,8 +9,6 @@ public class BankAccountSimulator {
         void display() { System.out.println("Current balance: " + balance); }
     }
     public static void main(String[] args) {
-        System.out.println("State of Chennai");
-        System.out.println();
         BankAccount a = new BankAccount("State Bank", "ACC001", 700.0);
         a.display();
         a.deposit(200.0);
