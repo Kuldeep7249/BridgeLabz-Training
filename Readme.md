@@ -4,7 +4,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Repository Structure :-
-     
+  ---   
      BridgeLabz-Training/
      │
      ├── core-java-practice/     
@@ -25,9 +25,23 @@ This repository contains all the tasks, practice programs, scenario-based proble
      |   |   ├── java-keywords/
      |   |   ├── object-modeling/
      |   |   ├── inheritance/
+     |   |   ├── oops-pillars/
+     |   |
+     │   ├── leet-code-codebase/
      |   |
      │   └── scenario-based/
      |
+     |
+     ├── dsa-practice/  
+     │   ├── gcr-codebase/
+     │   │   ├── linked-list/
+     │   │   ├── stack-practice/
+     │   │   ├── hash-practice/
+     │   │   ├── sorting/
+     │   │   ├── searching/
+     |   |
+     │   ├── leet-code-codebase/
+     |   
      ├── reviews/   
      |
      +-- README.md
@@ -36,10 +50,10 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Weekly Workflow & Progress :-
-
+---
 
 ## Week 1: Java Basics, Control Flow & Arrays
-
+---
 - **16-Dec-2025 (Tuesday)** :-
   - Introduction to BridgeLabz training process and guidelines 
   - Installed JDK
@@ -67,7 +81,7 @@ This repository contains all the tasks, practice programs, scenario-based proble
 
 
 ## Week 2: Strings
-
+---
 - **22-Dec-2025 (Monday)** :-
   - Studied String documentation
   - Solved Level 1 and Level 2 String practice problems
@@ -88,8 +102,8 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved 2 scenario based questions
 
 
-## Week 3: 
-
+## Week 3: OOPS Basics
+---
 - **29-Dec-2025 (Monday)** :-
   - Completed Built-In Method Extra questions
   - Solved 4 Scenario based questions
@@ -118,3 +132,64 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Studied material and Completed *Inheritance* assignment
   - Solved *Library Management System* scenario based question
   - Solved *EduQuiz* Scenario based question
+ 
+
+## Week 4: Advance OOPS Concept And DSA
+---
+- **05-Jan-2026 (Monday) :-**
+  - Studied the module and Solved some problems on *oops-pillars*
+  - Solved *Bank Account Manager* Scenario based question
+  - Solved *Utility class for Mathematical operations* Scenario based question
+ 
+- **06-Jan-2026 (Tuesday) :-**
+  - Solved and Submitted questions on *oops-concept*
+  - Solved Scenario based questions like *Phone Contact Organizer* and *Student Report Generator*
+  - Solved Scenario based question of *Cafeteria Menu App* and *Bank Account Manager*
+ 
+- **07-Jan-2026 (Wednesday) :-**
+  - Studied *Data Structure Introduction and LinkedList* material
+  - Studied *Approach towards Story Based Problem (Scenario)* sheet
+  - Solved *Cab Booking / Ride Management System* scenario based question
+  - Solved *Online Banking System* scenario based question
+ 
+- **08-Jan-2026 (Thursday) :-**
+  - Solved some problems related to *linked list*
+  - Solved a scenario based question on *Invoice Generator for Freelancers*
+ 
+- **09-Jan-2026 (Friday) :-**
+  - Completed remaining problems related to *linked list*
+  - Solved  scenario based question on *Hospital Patient Management System*
+  - Solved  scenario based question on *Vehicle Rental Application*
+  - Solved  scenario based question on *Flight Booking System*
+ 
+
+## Week 5: DSA and OOPS Scenario 
+---
+- **12-Jan-2026 (Monday) :-**
+  
+  - Solved *E-Commerce Order Management System* Scenario based question
+  - Solved *Student Course Registration System* Scenario based question
+  - Solved *Inventory Management System* Scenario based question
+  - Solved *Hospital Management System* Scenario based question
+  - Solved *Online Examination System* Scenario based question
+ 
+- **13-Jan-2026 (Tuesday) :-**
+  - Solved *Hotel Reservation System* Scenario based question
+  - Solved *Online Voting System* Scenario based question
+  - Solved *Digital Wallet System* Scenario based question
+  - Created and Resolved Git conflict
+ 
+- **14-Jan-2026 (Wednesday) :-**
+  - Studied *Stack, Queue and Hash Map* material
+  - Solved problems related to *Stack and Queue*
+  - Solved problems related to *Hash Map and Hash Set*
+ 
+- **15-Jan-2026 (Thursday) :-**
+  - Studied *Sorting Algorithm* material
+  - Solved problems related to *Sorting Algorithms*
+  - Studied *Searching Algorithms* and *Address Book Problem* scenario based
+ 
+- **16-Jan-2026 (Friday) :-**
+  - Studied *Searching Algorithm* material
+  - Solved problems related to *Searching Algorithms*
+  - Studied *Algorithm's Runtime Analysis & Big-O Notation* sheet
