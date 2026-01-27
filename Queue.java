@@ -12,6 +12,7 @@ public class Queue {
 
     public void enqueue(int data) {
         arr[index++] = data;
+        System.out.println("Element Added Successfully");
     }
 
     public int deque() {
@@ -20,6 +21,7 @@ public class Queue {
             arr[i - 1] = arr[i];
         }
         index--;
+        arr[index++]=0;
         return t;
     }
 
