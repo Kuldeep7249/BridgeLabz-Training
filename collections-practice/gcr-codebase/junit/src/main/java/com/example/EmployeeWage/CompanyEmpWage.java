@@ -3,6 +3,7 @@ import java.util.ArrayList;
 
 class CompanyEmpWage {
 
+    
     String company;
     int wagePerHour;
     int maxWorkingDays;
