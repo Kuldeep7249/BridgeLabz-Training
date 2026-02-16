@@ -1,5 +1,7 @@
-
-import java.util.List;
+package com.addressbook.service;
+import com.addressbook.dao.ContactDAO;
+import com.addressbook.model.ContactPerson;
+import java.util.*;
 
 public class ContactService {
 
@@ -9,7 +11,7 @@ public class ContactService {
 		this.contactDAO = contactDAO;
 	}
 
-	// (Usercase -> 7)
+	// (UC : 1)
 	public String addContact(ContactPerson contact) {
 		if (contact.getFirstName() == null || contact.getLastName() == null) {
 			return "First name and last name are required.";

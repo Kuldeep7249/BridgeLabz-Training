@@ -1,5 +1,10 @@
+package com.addressbook.dao;
+
+import com.addressbook.model.ContactPerson;
+import java.util.*;
 
 import java.util.*;
+
 
 public class ContactDAO {
 	List<ContactPerson> contacts = new ArrayList<>();

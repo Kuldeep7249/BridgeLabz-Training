@@ -1,8 +1,12 @@
-//Presenatation Layer
+package com.addressbook.main;
+import com.addressbook.dao.ContactDAO;
+import com.addressbook.model.ContactPerson;
+import com.addressbook.service.ContactService;
 
 import java.util.*;
 
-public class Main {
+
+public class AddressBookMain {
 
 	private static ContactPerson readContact(Scanner input) {
 		System.out.print("First Name: ");

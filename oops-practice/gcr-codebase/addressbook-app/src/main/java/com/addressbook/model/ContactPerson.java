@@ -1,5 +1,4 @@
-//Model Layer -- POJO Layer -> Plain Java Classes
-
+package com.addressbook.model;
 
 public class ContactPerson {
 	private String firstName;
