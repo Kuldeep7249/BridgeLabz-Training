@@ -1,0 +1,5 @@
+
+
+interface MealPlan {
+	void showMeal();
+}
